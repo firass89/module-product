@@ -1,5 +1,5 @@
 {
-    "name": "basic-app/module-product",
+    "name": "pim-app/module-product",
     "license": "MIT",
     "autoload": {
         "psr-4": {
