@@ -1,0 +1,12 @@
+{
+    "name": "basic-app/module-product",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BasicApp\\Product\\": ""
+        }
+    },
+    "require" : {
+        "basic-app/migration" : "*"
+    }
+}
